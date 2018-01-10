@@ -1,0 +1,61 @@
+
+/*公共内容*/
+body{
+    background: #f5f5f5;
+}
+/*头部开始*/
+#header .navbar-brand{
+    padding: 5px ;
+}
+#header .navbar-brand>img{
+    width: 78%;
+    margin-left: 11%;
+}
+
+#header .navbar-nav{
+    font-size: 16px;
+}
+#header .mycourse img{
+   float: left;
+    width: 30px;
+}
+#header .navbar-default{
+    margin-bottom:0;
+}
+
+/*首页内容区*/
+#content .course_tuijian{
+    margin-top: 20px;
+}
+.course_tuijian .panel-heading{
+    background: #f5f5f5;
+}
+.line_box{
+    padding-right: 10px;
+}
+.line{
+    background: deepskyblue;
+    width: 5px;
+    height: 20px;
+}
+.line_title{
+    padding-left: 0;
+}
+.divider{
+    height: 1px;
+    width: 100%;
+    background: lightgray;
+    margin: 10px 0;
+}
+
+#content .course_tuijian .tea_box{
+   margin-top: 15px;
+}
+/*脚注部分*/
+
+#footer{
+    background: #343434;
+    padding: 20px 0;
+    color: white;
+    font-weight: 700;
+}
